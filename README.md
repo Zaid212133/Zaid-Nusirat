@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
+- 📋 **Resume**: Check out My Resume [**here**](file:///C:/Users/lenovo/Downloads/blue%20professional%20modern%20CV%20resume%20(1).pdf)  
 - 💬 **Ask me about**: Data Science, Machine Learning, Deep Learning, AI  
 - 📫 **Reach me at**: [zm463454@gmail.com](mailto:zm463454@gmail.com) | **+962 0786870002**  
 - ⚡ **Fun fact**: I’m constantly learning and improving my AI and data science skills!  
