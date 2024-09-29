@@ -71,22 +71,22 @@ Implemented a machine learning model to predict loan eligibility based on custom
 
 ---
 
-### [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)  
+### [Binary Classification of Insurance Cross Selling](https://github.com/zaed-nusirat0/Binary-Classification-of-Insurance-Cross-Selling)
 Created a model to classify insurance cross-selling opportunities.
 
 ---
 
-### [Classification with an Academic Success Dataset](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
+### [Classification with an Academic Success Dataset](https://github.com/zaed-nusirat0/Classification-with-an-Academic-Success)
 Developed classification models to analyze academic success factors.
 
 ---
 
-### [Face Mask Detection Dataset](https://www.kaggle.com/code/zaed2003/face-mask-detection-using-cnn)  
+### [Face Mask Detection Dataset](https://github.com/zaed-nusirat0/Face-Mask-Detection)
 Built a model to detect face masks using CNN techniques.
 
 ---
 
-### [Regression of Used Car Prices](https://www.kaggle.com/code/zaed2003/car-price-prediction-eda-and-visualization-insight)  
+### [Regression of Used Car Prices](https://github.com/zaed-nusirat0/car-price-prediction)
 Conducted regression analysis to predict used car prices.
 
 ---
