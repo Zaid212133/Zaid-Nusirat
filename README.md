@@ -60,7 +60,7 @@
 ---
 
 ## 🖥️ Machine Learning Projects  
-**Heart Disease Prediction | Loan Prediction | Breast Cancer Detection**  
+**[Heart Disease Prediction](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)** | **[Loan Prediction](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)** | **[Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)**  
 
 **Tools & Technologies:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -93,18 +93,38 @@
 
 ---
 
-## 💻 Heart Disease Prediction  
+## 💻 [Heart Disease Prediction](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)  
 Built a predictive model for detecting heart disease using machine learning algorithms on a dataset from Kaggle.
 
 ---
 
-## 🏦 Loan Prediction  
+## 🏦 [Loan Prediction](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
 Implemented a machine learning model to predict loan eligibility based on customer data.
 
 ---
 
-## 🩺 Breast Cancer Detection  
-Developed a machine learning model to classify breast cancer based on data analysis techniques.
+## 🛡️ [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)  
+Created a model to classify insurance cross-selling opportunities.
+
+---
+
+## 🎓 [Classification with an Academic Success Dataset](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
+Developed classification models to analyze academic success factors.
+
+---
+
+## 😷 [Face Mask Detection Dataset](https://www.kaggle.com/code/zaed2003/face-mask-detection-using-cnn)  
+Built a model to detect face masks using CNN techniques.
+
+---
+
+## 🚗 [Regression of Used Car Prices](https://www.kaggle.com/code/zaed2003/car-price-prediction-eda-and-visualization-insight)  
+Conducted regression analysis to predict used car prices.
+
+---
+
+## 📧 [Spam Email Classification](https://github.com/zaed-nusirat0/Email-Spam-Classification-NLP)  
+Developed a model for classifying spam emails using NLP techniques.
 
 ---
 
