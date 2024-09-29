@@ -68,7 +68,7 @@ Built a predictive model for detecting heart disease using machine learning algo
 ---
 
 ### [Loan Prediction](https://github.com/zaed-nusirat0/Loan-Prediction)  
-[![Loan Prediction](https://link_to_your_image2.com/image2.png)](https://github.com/zaed-nusirat0/Loan-Prediction)  
+[![Loan Prediction](![image](https://github.com/user-attachments/assets/ee0076c1-7503-4521-913b-82c42f575312))](https://github.com/zaed-nusirat0/Loan-Prediction)  
 Implemented a machine learning model to predict loan eligibility based on customer data.
 
 ---
