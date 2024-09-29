@@ -61,45 +61,37 @@
 
 ## 🖥️ Machine Learning Projects  
 
-### [Heart Disease Prediction](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)
-[![Heart Disease Prediction](https://github.com/zaed-nusirat0/your-repo-name/raw/main/images/heart_disease_image.png)](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)  
+### [Heart Disease Prediction](https://github.com/zaed-nusirat0/Heart-Disease-)
 Built a predictive model for detecting heart disease using machine learning algorithms on a dataset from Kaggle.
 
 ---
 
 ### [Loan Prediction](https://github.com/zaed-nusirat0/Loan-Prediction)  
-[![Loan Prediction](![image](https://github.com/user-attachments/assets/5753b8f2-e23e-423c-bbc8-d4464cd60da7)
-)](https://github.com/zaed-nusirat0/Loan-Prediction)  
 Implemented a machine learning model to predict loan eligibility based on customer data.
 
 ---
 
 ### [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)  
-[![Binary Classification of Insurance Cross Selling](https://github.com/zaed-nusirat0/your-repo-name/raw/main/images/insurance_image.png)](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)  
 Created a model to classify insurance cross-selling opportunities.
 
 ---
 
 ### [Classification with an Academic Success Dataset](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
-[![Classification with an Academic Success Dataset](https://github.com/zaed-nusirat0/your-repo-name/raw/main/images/academic_image.png)](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
 Developed classification models to analyze academic success factors.
 
 ---
 
 ### [Face Mask Detection Dataset](https://www.kaggle.com/code/zaed2003/face-mask-detection-using-cnn)  
-[![Face Mask Detection Dataset](https://github.com/zaed-nusirat0/your-repo-name/raw/main/images/mask_detection_image.png)](https://www.kaggle.com/code/zaed2003/face-mask-detection-using-cnn)  
 Built a model to detect face masks using CNN techniques.
 
 ---
 
 ### [Regression of Used Car Prices](https://www.kaggle.com/code/zaed2003/car-price-prediction-eda-and-visualization-insight)  
-[![Regression of Used Car Prices](https://github.com/zaed-nusirat0/your-repo-name/raw/main/images/car_price_image.png)](https://www.kaggle.com/code/zaed2003/car-price-prediction-eda-and-visualization-insight)  
 Conducted regression analysis to predict used car prices.
 
 ---
 
 ### [Spam Email Classification](https://github.com/zaed-nusirat0/Email-Spam-Classification-NLP)  
-[![Spam Email Classification](https://github.com/zaed-nusirat0/your-repo-name/raw/main/images/spam_email_image.png)](https://github.com/zaed-nusirat0/Email-Spam-Classification-NLP)  
 Developed a model for classifying spam emails using NLP techniques.
 
 ---
@@ -110,4 +102,24 @@ Developed a model for classifying spam emails using NLP techniques.
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### 🤖 Machine Learning & Data Science
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
+
+### 🚀 Deployment & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid-nserat&show_icons=true&locale=en&layout=compact" alt="zaid-nserat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid-nserat&show_icons=true&locale=en" alt="zaid-nserat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid-nserat&" alt="zaid-nserat" /></p>
