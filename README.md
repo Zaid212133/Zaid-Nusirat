@@ -60,7 +60,9 @@
 ---
 
 ## 🖥️ Machine Learning Projects  
-**[Heart Disease Prediction](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)** | **[Loan Prediction](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)** | **[Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)**  
+[![Heart Disease Prediction](https://link_to_your_image.com/image1.png)](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset) **[Heart Disease Prediction](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)** |  
+[![Loan Prediction](https://link_to_your_image.com/image2.png)](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz) **[Loan Prediction](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)** |  
+[![Binary Classification of Insurance Cross Selling](https://link_to_your_image.com/image3.png)](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz) **[Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)**  
 
 **Tools & Technologies:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -94,36 +96,43 @@
 ---
 
 ## 💻 [Heart Disease Prediction](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)  
+[![Heart Disease Prediction](https://link_to_your_image.com/image1.png)](https://www.kaggle.com/code/zaed2003/eda-heart-disease-dataset)  
 Built a predictive model for detecting heart disease using machine learning algorithms on a dataset from Kaggle.
 
 ---
 
 ## 🏦 [Loan Prediction](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
+[![Loan Prediction](https://link_to_your_image.com/image2.png)](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
 Implemented a machine learning model to predict loan eligibility based on customer data.
 
 ---
 
 ## 🛡️ [Binary Classification of Insurance Cross Selling](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)  
+[![Binary Classification of Insurance Cross Selling](https://link_to_your_image.com/image3.png)](https://www.kaggle.com/code/zaed2003/insurance-cross-selling-in-depth-eda-viz)  
 Created a model to classify insurance cross-selling opportunities.
 
 ---
 
 ## 🎓 [Classification with an Academic Success Dataset](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
+[![Classification with an Academic Success Dataset](https://link_to_your_image.com/image4.png)](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
 Developed classification models to analyze academic success factors.
 
 ---
 
 ## 😷 [Face Mask Detection Dataset](https://www.kaggle.com/code/zaed2003/face-mask-detection-using-cnn)  
+[![Face Mask Detection Dataset](https://link_to_your_image.com/image5.png)](https://www.kaggle.com/code/zaed2003/face-mask-detection-using-cnn)  
 Built a model to detect face masks using CNN techniques.
 
 ---
 
 ## 🚗 [Regression of Used Car Prices](https://www.kaggle.com/code/zaed2003/car-price-prediction-eda-and-visualization-insight)  
+[![Regression of Used Car Prices](https://link_to_your_image.com/image6.png)](https://www.kaggle.com/code/zaed2003/car-price-prediction-eda-and-visualization-insight)  
 Conducted regression analysis to predict used car prices.
 
 ---
 
 ## 📧 [Spam Email Classification](https://github.com/zaed-nusirat0/Email-Spam-Classification-NLP)  
+[![Spam Email Classification](https://link_to_your_image.com/image7.png)](https://github.com/zaed-nusirat0/Email-Spam-Classification-NLP)  
 Developed a model for classifying spam emails using NLP techniques.
 
 ---
