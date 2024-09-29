@@ -102,7 +102,7 @@ Built a predictive model for detecting heart disease using machine learning algo
 ---
 
 ## 🏦 [Loan Prediction](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
-[![Loan Prediction](https://link_to_your_image.com/image2.png)](https://www.kaggle.com/code/zaed2003/deep-dive-academic-excellence-via-eda-viz)  
+[![Loan Prediction](![image](https://github.com/user-attachments/assets/ea801f67-944b-4cc9-aeee-8a421bde46be))]((https://github.com/zaed-nusirat0/Loan-Prediction)(https://github.com/zaed-nusirat0/Loan-Prediction))  
 Implemented a machine learning model to predict loan eligibility based on customer data.
 
 ---
